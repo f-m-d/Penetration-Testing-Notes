@@ -8,4 +8,4 @@
  Everytime I learn something new for Pentesting, I add it to this repo.
  This checklist will include A LOT of topic: basics, reminders, to-do list etc.
  
- I hope will help, share to others or edit to improve the repo <3
+ I hope will help, share to others or edit to improve the repo <3 !
