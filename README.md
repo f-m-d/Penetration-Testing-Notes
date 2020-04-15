@@ -1,7 +1,7 @@
 # Pentesting Checklist
 
  Before getting started in this project: You need KeepNote to open the "notebook.nbk" file, located in:
- "Pentesting Checklist/notebook.nbk"
+"Pentesting Checklist/notebook.nbk"
  http://keepnote.org/
 
 
