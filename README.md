@@ -1,4 +1,4 @@
-# Pentesting Checklist
+# Pentesting Notes
 
  Before getting started in this project: You need KeepNote to open the "notebook.nbk" file, located in:
 "Pentesting Checklist/notebook.nbk"
@@ -7,7 +7,7 @@
 
 
 
- "Pentesting-Checklist" is a simple checklist for Kali Linux.
+ "Pentesting-Notes" is a simple checklist for Kali Linux.
  Everytime I learn something new into Pentesting field, I add it to this repo.
  This checklist will include A LOT of topic: basics, reminders, to-do list, examples etc.
  I even add some notes from online courses, so I will not forget them.
